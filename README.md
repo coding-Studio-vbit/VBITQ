@@ -1,0 +1,2 @@
+# VBITQ
+A social media platform which is exclusively used for knowledge sharing and built on a strong fundamental that people  learn more through experiences. Using this platform students of VBIT will have to login and can ask various questions related to the college life, academics, faculty and still stay anonymous. This application would especially be useful to provide genuine opinions about each and every aspect of VBIT and could play a major role in connecting the people of VBIT
